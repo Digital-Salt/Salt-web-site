@@ -3,12 +3,12 @@ import React from 'react';
 
 
 
-function Nav() {
+function ContentWrap() {
     return (
       <div className="App">
-        <h1>this is the nav</h1>
+        <h1>this is the content wrap</h1>
       </div>
     );
   }
   
-  export default Nav;
+  export default ContentWrap;
